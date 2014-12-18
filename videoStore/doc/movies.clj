@@ -1,0 +1,1 @@
+[{:name "Inception", :id 1, :qty 2, :price 3.5} {:name "Interstellar", :id 2, :qty 7, :price 4.0} {:name "Pulp Fiction", :id 3, :qty 6, :price 3.7} {:name "Forest Gump", :id 4, :qty -3, :price 3.7} {:id 5, :name "Tangled", :price 4.5, :qty 5} {:id 6, :name "Pochahontas", :price 4.5, :qty 8}]
